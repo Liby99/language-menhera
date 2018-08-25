@@ -18,5 +18,10 @@
   "engines": {
     "atom": ">=1.29.0"
   },
-  "homepage": "https://github.com/Liby99/language-menhera#readme"
+  "homepage": "https://github.com/Liby99/language-menhera#readme",
+  "dependencies": {
+    "nan": "^2.11.0",
+    "tree-sitter": "^0.13.8",
+    "tree-sitter-menhera": "0.0.1"
+  }
 }
