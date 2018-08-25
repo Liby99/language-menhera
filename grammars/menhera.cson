@@ -2,7 +2,7 @@
   'mhr'
 ]
 'name': 'Menhera'
-'scopeName': 'source.menhera'
+'scopeName': 'menhera'
 'type': 'tree-sitter'
 'parser': 'tree-sitter-menhera'
 'scopes': {
