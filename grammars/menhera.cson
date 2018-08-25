@@ -1,0 +1,11 @@
+'fileTypes': [
+  'mhr'
+]
+'name': 'Menhera'
+'scopeName': 'source.menhera'
+'type': 'tree-sitter'
+'parser': 'tree-sitter-menhera'
+'scopes': {
+  'identifier': 'entity.name',
+  'number': 'entity.number',
+}

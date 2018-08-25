@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Liby99/language-menhera/issues"
   },
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
   "homepage": "https://github.com/Liby99/language-menhera#readme"
 }
